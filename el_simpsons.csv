@@ -1,0 +1,15 @@
+from;to;weight
+Homer;Bart;3
+Homer;Marge;3
+Homer;Lisa;2
+Homer;Maggie;1
+Marge;Bart;2
+Marge;Lisa;3
+Marge;Maggie;2
+Bart;Lisa;3
+Bart;Maggie;1
+Ned;Bart;1
+Ned;Homer;2
+Moe;Homer;3
+Milhouse;Bart;3
+Milhouse;Lisa;1
